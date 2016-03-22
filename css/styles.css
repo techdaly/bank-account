@@ -1,0 +1,11 @@
+#transaction{
+  display: none;
+}
+
+#balance{
+  display: none;
+}
+
+ul{
+  list-style-type: none;
+}
